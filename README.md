@@ -1,2 +1,2 @@
-﻿GitTest geändert irgendein schrott 2
+GitTest geändert geändert
 =======
